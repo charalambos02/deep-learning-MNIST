@@ -1,1 +1,1 @@
-# deep-learning-MNIST
+# Deep learning using the MNIST dataset
